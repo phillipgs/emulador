@@ -1,0 +1,20 @@
+----------------------------------------------------------------
+TODO
+----------------------------------------------------------------
+- Command-line support
+
+- A more intuitive user interface
+
+- Audio support
+
+- Applet support (to integrate into a web browser)
+
+- More mapper support
+
+- ROM Compatibility testing
+
+- Hardware rendering for OS X (runs incredibly slow on OSX but great on windows)
+
+- Test on linux
+
+

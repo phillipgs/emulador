@@ -1,0 +1,3 @@
+- APU (Sound) does not work (not fully coded)
+- Find workaround for hardware rendering support with OS X
+

@@ -1,0 +1,31 @@
+----------------------------------------------------------------
+COMPATIBILITY
+----------------------------------------------------------------
+
+Supported Mappers
+----------------------------------------------------------------
+Mapper0 (Default mapper)
+AOROM Mapper
+CNROM Mapper
+GNROM Mapper
+UNIROM Mapper
+
+
+Games known to fully work
+----------------------------------------------------------------
+Contra
+Mario Bros
+Super Mario Bros
+
+
+Games known to partially work
+----------------------------------------------------------------
+Dig-dug                       - weapon block (graphical)
+Kung-fu                       - incorrect scrolling
+
+
+Games that do not work at all
+----------------------------------------------------------------
+Megaman 1-6
+
+
